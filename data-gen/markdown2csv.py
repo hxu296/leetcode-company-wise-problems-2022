@@ -1,5 +1,4 @@
 import pandas as pd
-from markdownTable import markdownTable
 import argparse
 
 def md_to_df(md_path):
