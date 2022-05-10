@@ -1,0 +1,241 @@
+problem_link,problem_name,num_occur
+https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/,Check if Numbers Are Ascending in a Sentence,2
+https://leetcode.com/problems/build-array-from-permutation/,Build Array from Permutation,5
+https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/,Minimum Operations to Make the Array Increasing,2
+https://leetcode.com/problems/implement-trie-ii-prefix-tree/,Implement Trie II (Prefix Tree),2
+https://leetcode.com/problems/find-the-highest-altitude/,Find the Highest Altitude,3
+https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/,Partitioning Into Minimum Number Of Deci-Binary Numbers,2
+https://leetcode.com/problems/goal-parser-interpretation/,Goal Parser Interpretation,2
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/,Check If Two String Arrays are Equivalent,2
+https://leetcode.com/problems/sum-of-all-odd-length-subarrays/,Sum of All Odd Length Subarrays,2
+https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/,Number of Sub-arrays With Odd Sum,2
+https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/,Count Odd Numbers in an Interval Range,2
+https://leetcode.com/problems/shuffle-the-array/,Shuffle the Array,3
+https://leetcode.com/problems/consecutive-characters/,Consecutive Characters,3
+https://leetcode.com/problems/create-target-array-in-the-given-order/,Create Target Array in the Given Order,2
+https://leetcode.com/problems/lucky-numbers-in-a-matrix/,Lucky Numbers in a Matrix,2
+https://leetcode.com/problems/product-of-the-last-k-numbers/,Product of the Last K Numbers,2
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/,Number of Steps to Reduce a Number to Zero,2
+https://leetcode.com/problems/decompress-run-length-encoded-list/,Decompress Run-Length Encoded List,3
+https://leetcode.com/problems/deepest-leaves-sum/,Deepest Leaves Sum,2
+https://leetcode.com/problems/sequential-digits/,Sequential Digits,2
+https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/,Group the People Given the Group Size They Belong To,2
+https://leetcode.com/problems/search-suggestions-system/,Search Suggestions System,2
+https://leetcode.com/problems/minimum-time-visiting-all-points/,Minimum Time Visiting All Points,3
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Remove All Adjacent Duplicates in String II,3
+https://leetcode.com/problems/unique-number-of-occurrences/,Unique Number of Occurrences,4
+https://leetcode.com/problems/day-of-the-week/,Day of the Week,2
+https://leetcode.com/problems/height-checker/,Height Checker,2
+https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/,Sum of Root To Leaf Binary Numbers,2
+https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/,Pairs of Songs With Total Durations Divisible by 60,2
+https://leetcode.com/problems/complement-of-base-10-integer/,Complement of Base 10 Integer,2
+https://leetcode.com/problems/max-consecutive-ones-iii/,Max Consecutive Ones III,2
+https://leetcode.com/problems/find-the-town-judge/,Find the Town Judge,2
+https://leetcode.com/problems/smallest-string-starting-from-leaf/,Smallest String Starting From Leaf,2
+https://leetcode.com/problems/distribute-coins-in-binary-tree/,Distribute Coins in Binary Tree,2
+https://leetcode.com/problems/range-sum-of-bst/,Range Sum of BST,3
+https://leetcode.com/problems/maximum-frequency-stack/,Maximum Frequency Stack,4
+https://leetcode.com/problems/find-and-replace-pattern/,Find and Replace Pattern,2
+https://leetcode.com/problems/boats-to-save-people/,Boats to Save People,2
+https://leetcode.com/problems/middle-of-the-linked-list/,Middle of the Linked List,2
+https://leetcode.com/problems/transpose-matrix/,Transpose Matrix,3
+https://leetcode.com/problems/lemonade-change/,Lemonade Change,2
+https://leetcode.com/problems/peak-index-in-a-mountain-array/,Peak Index in a Mountain Array,3
+https://leetcode.com/problems/backspace-string-compare/,Backspace String Compare,3
+https://leetcode.com/problems/shortest-distance-to-a-character/,Shortest Distance to a Character,2
+https://leetcode.com/problems/binary-tree-pruning/,Binary Tree Pruning,2
+https://leetcode.com/problems/rotate-string/,Rotate String,2
+https://leetcode.com/problems/split-linked-list-in-parts/,Split Linked List in Parts,2
+https://leetcode.com/problems/find-pivot-index/,Find Pivot Index,3
+https://leetcode.com/problems/accounts-merge/,Accounts Merge,4
+https://leetcode.com/problems/1-bit-and-2-bit-characters/,1-bit and 2-bit Characters,2
+https://leetcode.com/problems/design-hashmap/,Design HashMap,3
+https://leetcode.com/problems/binary-search/,Binary Search,5
+https://leetcode.com/problems/max-area-of-island/,Max Area of Island,3
+https://leetcode.com/problems/top-k-frequent-words/,Top K Frequent Words,3
+https://leetcode.com/problems/employee-importance/,Employee Importance,2
+https://leetcode.com/problems/valid-palindrome-ii/,Valid Palindrome II,3
+https://leetcode.com/problems/cut-off-trees-for-golf-event/,Cut Off Trees for Golf Event,2
+https://leetcode.com/problems/shopping-offers/,Shopping Offers,2
+https://leetcode.com/problems/design-circular-queue/,Design Circular Queue,3
+https://leetcode.com/problems/find-duplicate-file-in-system/,Find Duplicate File in System,2
+https://leetcode.com/problems/minimum-index-sum-of-two-lists/,Minimum Index Sum of Two Lists,2
+https://leetcode.com/problems/permutation-in-string/,Permutation in String,4
+https://leetcode.com/problems/array-nesting/,Array Nesting,1
+https://leetcode.com/problems/array-partition-i/,Array Partition I,2
+https://leetcode.com/problems/subarray-sum-equals-k/,Subarray Sum Equals K,3
+https://leetcode.com/problems/reverse-words-in-a-string-iii/,Reverse Words in a String III,2
+https://leetcode.com/problems/friend-circles/,Friend Circles,3
+https://leetcode.com/problems/diameter-of-binary-tree/,Diameter of Binary Tree,2
+https://leetcode.com/problems/single-element-in-a-sorted-array/,Single Element in a Sorted Array,2
+https://leetcode.com/problems/k-diff-pairs-in-an-array/,K-diff Pairs in an Array,2
+https://leetcode.com/problems/random-pick-with-weight/,Random Pick with Weight,2
+https://leetcode.com/problems/contiguous-array/,Contiguous Array,2
+https://leetcode.com/problems/continuous-subarray-sum/,Continuous Subarray Sum,2
+https://leetcode.com/problems/longest-uncommon-subsequence-ii/,Longest Uncommon Subsequence II,2
+https://leetcode.com/problems/coin-change-2/,Coin Change 2,3
+https://leetcode.com/problems/longest-palindromic-subsequence/,Longest Palindromic Subsequence,2
+https://leetcode.com/problems/fibonacci-number/,Fibonacci Number,4
+https://leetcode.com/problems/most-frequent-subtree-sum/,Most Frequent Subtree Sum,2
+https://leetcode.com/problems/increasing-subsequences/,Increasing Subsequences,2
+https://leetcode.com/problems/max-consecutive-ones/,Max Consecutive Ones,2
+https://leetcode.com/problems/number-complement/,Number Complement,2
+https://leetcode.com/problems/ones-and-zeroes/,Ones and Zeroes,2
+https://leetcode.com/problems/unique-substrings-in-wraparound-string/,Unique Substrings in Wraparound String,2
+https://leetcode.com/problems/lfu-cache/,LFU Cache,2
+https://leetcode.com/problems/assign-cookies/,Assign Cookies,2
+https://leetcode.com/problems/sort-characters-by-frequency/,Sort Characters By Frequency,2
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Find All Numbers Disappeared in an Array,2
+https://leetcode.com/problems/string-compression/,String Compression,6
+https://leetcode.com/problems/find-all-duplicates-in-an-array/,Find All Duplicates in an Array,2
+https://leetcode.com/problems/find-all-anagrams-in-a-string/,Find All Anagrams in a String,4
+https://leetcode.com/problems/number-of-segments-in-a-string/,Number of Segments in a String,2
+https://leetcode.com/problems/battleships-in-a-board/,Battleships in a Board,2
+https://leetcode.com/problems/partition-equal-subset-sum/,Partition Equal Subset Sum,2
+https://leetcode.com/problems/add-strings/,Add Strings,2
+https://leetcode.com/problems/third-maximum-number/,Third Maximum Number,2
+https://leetcode.com/problems/fizz-buzz/,Fizz Buzz,2
+https://leetcode.com/problems/split-array-largest-sum/,Split Array Largest Sum,2
+https://leetcode.com/problems/nth-digit/,Nth Digit,3
+https://leetcode.com/problems/rotate-function/,Rotate Function,2
+https://leetcode.com/problems/decode-string/,Decode String,5
+https://leetcode.com/problems/perfect-rectangle/,Perfect Rectangle,4
+https://leetcode.com/problems/find-the-difference/,Find the Difference,2
+https://leetcode.com/problems/first-unique-character-in-a-string/,First Unique Character in a String,6
+https://leetcode.com/problems/ransom-note/,Ransom Note,3
+https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,Find K Pairs with Smallest Sums,3
+https://leetcode.com/problems/design-hit-counter/,Design Hit Counter,2
+https://leetcode.com/problems/logger-rate-limiter/,Logger Rate Limiter,2
+https://leetcode.com/problems/intersection-of-two-arrays/,Intersection of Two Arrays,6
+https://leetcode.com/problems/top-k-frequent-elements/,Top K Frequent Elements,5
+https://leetcode.com/problems/reverse-string/,Reverse String,2
+https://leetcode.com/problems/flatten-nested-list-iterator/,Flatten Nested List Iterator,5
+https://leetcode.com/problems/palindrome-pairs/,Palindrome Pairs,3
+https://leetcode.com/problems/create-maximum-number/,Create Maximum Number,2
+https://leetcode.com/problems/remove-duplicate-letters/,Remove Duplicate Letters,4
+https://leetcode.com/problems/super-ugly-number/,Super Ugly Number,2
+https://leetcode.com/problems/burst-balloons/,Burst Balloons,4
+https://leetcode.com/problems/game-of-life/,Game of Life,2
+https://leetcode.com/problems/find-the-duplicate-number/,Find the Duplicate Number,3
+https://leetcode.com/problems/peeking-iterator/,Peeking Iterator,3
+https://leetcode.com/problems/move-zeroes/,Move Zeroes,8
+https://leetcode.com/problems/zigzag-iterator/,Zigzag Iterator,2
+https://leetcode.com/problems/perfect-squares/,Perfect Squares,2
+https://leetcode.com/problems/first-bad-version/,First Bad Version,5
+https://leetcode.com/problems/find-the-celebrity/,Find the Celebrity,3
+https://leetcode.com/problems/h-index/,H-Index,2
+https://leetcode.com/problems/integer-to-english-words/,Integer to English Words,2
+https://leetcode.com/problems/missing-number/,Missing Number,3
+https://leetcode.com/problems/valid-anagram/,Valid Anagram,2
+https://leetcode.com/problems/search-a-2d-matrix-ii/,Search a 2D Matrix II,2
+https://leetcode.com/problems/sliding-window-maximum/,Sliding Window Maximum,3
+https://leetcode.com/problems/product-of-array-except-self/,Product of Array Except Self,10
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Lowest Common Ancestor of a Binary Tree,2
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Lowest Common Ancestor of a Binary Search Tree,3
+https://leetcode.com/problems/palindrome-linked-list/,Palindrome Linked List,6
+https://leetcode.com/problems/power-of-two/,Power of Two,4
+https://leetcode.com/problems/basic-calculator-ii/,Basic Calculator II,2
+https://leetcode.com/problems/invert-binary-tree/,Invert Binary Tree,3
+https://leetcode.com/problems/contains-duplicate-iii/,Contains Duplicate III,2
+https://leetcode.com/problems/contains-duplicate/,Contains Duplicate,6
+https://leetcode.com/problems/shortest-palindrome/,Shortest Palindrome,2
+https://leetcode.com/problems/word-search-ii/,Word Search II,4
+https://leetcode.com/problems/add-and-search-word-data-structure-design/,Add and Search Word - Data structure design,2
+https://leetcode.com/problems/course-schedule-ii/,Course Schedule II,5
+https://leetcode.com/problems/minimum-size-subarray-sum/,Minimum Size Subarray Sum,2
+https://leetcode.com/problems/implement-trie-prefix-tree/,Implement Trie,3
+https://leetcode.com/problems/course-schedule/,Course Schedule,3
+https://leetcode.com/problems/reverse-linked-list/,Reverse Linked List,6
+https://leetcode.com/problems/count-primes/,Count Primes,2
+https://leetcode.com/problems/happy-number/,Happy Number,7
+https://leetcode.com/problems/number-of-islands/,Number of Islands,11
+https://leetcode.com/problems/binary-tree-right-side-view/,Binary Tree Right Side View,2
+https://leetcode.com/problems/house-robber/,House Robber,8
+https://leetcode.com/problems/reverse-bits/,Reverse Bits,3
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Best Time to Buy and Sell Stock IV,3
+https://leetcode.com/problems/largest-number/,Largest Number,2
+https://leetcode.com/problems/excel-sheet-column-number/,Excel Sheet Column Number,2
+https://leetcode.com/problems/majority-element/,Majority Element,4
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Two Sum II - Input array is sorted,3
+https://leetcode.com/problems/find-peak-element/,Find Peak Element,2
+https://leetcode.com/problems/reverse-words-in-a-string/,Reverse Words in a String,3
+https://leetcode.com/problems/sort-list/,Sort List,2
+https://leetcode.com/problems/lru-cache/,LRU Cache,20
+https://leetcode.com/problems/word-break-ii/,Word Break II,4
+https://leetcode.com/problems/word-break/,Word Break,10
+https://leetcode.com/problems/copy-list-with-random-pointer/,Copy List with Random Pointer,2
+https://leetcode.com/problems/single-number/,Single Number,4
+https://leetcode.com/problems/gas-station/,Gas Station,5
+https://leetcode.com/problems/palindrome-partitioning/,Palindrome Partitioning,3
+https://leetcode.com/problems/longest-consecutive-sequence/,Longest Consecutive Sequence,2
+https://leetcode.com/problems/word-ladder/,Word Ladder,5
+https://leetcode.com/problems/valid-palindrome/,Valid Palindrome,5
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,Best Time to Buy and Sell Stock III,2
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Best Time to Buy and Sell Stock,8
+https://leetcode.com/problems/pascals-triangle/,Pascal's Triangle,4
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,Convert Sorted Array to Binary Search Tree,2
+https://leetcode.com/problems/maximum-depth-of-binary-tree/,Maximum Depth of Binary Tree,2
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Binary Tree Zigzag Level Order Traversal,2
+https://leetcode.com/problems/binary-tree-level-order-traversal/,Binary Tree Level Order Traversal,2
+https://leetcode.com/problems/same-tree/,Same Tree,3
+https://leetcode.com/problems/recover-binary-search-tree/,Recover Binary Search Tree,3
+https://leetcode.com/problems/interleaving-string/,Interleaving String,4
+https://leetcode.com/problems/binary-tree-inorder-traversal/,Binary Tree Inorder Traversal,3
+https://leetcode.com/problems/reverse-linked-list-ii/,Reverse Linked List II,2
+https://leetcode.com/problems/decode-ways/,Decode Ways,3
+https://leetcode.com/problems/merge-sorted-array/,Merge Sorted Array,8
+https://leetcode.com/problems/maximal-rectangle/,Maximal Rectangle,2
+https://leetcode.com/problems/subsets/,Subsets,3
+https://leetcode.com/problems/minimum-window-substring/,Minimum Window Substring,4
+https://leetcode.com/problems/search-a-2d-matrix/,Search a 2D Matrix,4
+https://leetcode.com/problems/set-matrix-zeroes/,Set Matrix Zeroes,4
+https://leetcode.com/problems/edit-distance/,Edit Distance,3
+https://leetcode.com/problems/simplify-path/,Simplify Path,3
+https://leetcode.com/problems/sqrtx/,Sqrt(x),5
+https://leetcode.com/problems/text-justification/,Text Justification,3
+https://leetcode.com/problems/plus-one/,Plus One,2
+https://leetcode.com/problems/minimum-path-sum/,Minimum Path Sum,3
+https://leetcode.com/problems/unique-paths/,Unique Paths,7
+https://leetcode.com/problems/spiral-matrix-ii/,Spiral Matrix II,4
+https://leetcode.com/problems/merge-intervals/,Merge Intervals,18
+https://leetcode.com/problems/jump-game/,Jump Game,3
+https://leetcode.com/problems/spiral-matrix/,Spiral Matrix,11
+https://leetcode.com/problems/maximum-subarray/,Maximum Subarray,17
+https://leetcode.com/problems/powx-n/,"Pow(x, n)",5
+https://leetcode.com/problems/group-anagrams/,Group Anagrams,11
+https://leetcode.com/problems/rotate-image/,Rotate Image,8
+https://leetcode.com/problems/permutations/,Permutations,4
+https://leetcode.com/problems/jump-game-ii/,Jump Game II,4
+https://leetcode.com/problems/trapping-rain-water/,Trapping Rain Water,8
+https://leetcode.com/problems/combination-sum/,Combination Sum,4
+https://leetcode.com/problems/count-and-say/,Count and Say,2
+https://leetcode.com/problems/sudoku-solver/,Sudoku Solver,6
+https://leetcode.com/problems/valid-sudoku/,Valid Sudoku,4
+https://leetcode.com/problems/search-insert-position/,Search Insert Position,7
+https://leetcode.com/problems/search-in-rotated-sorted-array/,Search in Rotated Sorted Array,7
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/,Substring with Concatenation of All Words,2
+https://leetcode.com/problems/implement-strstr/,Implement strStr(),2
+https://leetcode.com/problems/remove-element/,Remove Element,4
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/,Remove Duplicates from Sorted Array,4
+https://leetcode.com/problems/swap-nodes-in-pairs/,Swap Nodes in Pairs,2
+https://leetcode.com/problems/merge-k-sorted-lists/,Merge k Sorted Lists,8
+https://leetcode.com/problems/generate-parentheses/,Generate Parentheses,9
+https://leetcode.com/problems/valid-parentheses/,Valid Parentheses,8
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Remove Nth Node From End of List,2
+https://leetcode.com/problems/4sum/,4 Sum,5
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Letter Combinations of a Phone Number,7
+https://leetcode.com/problems/3sum-closest/,3Sum Closest,3
+https://leetcode.com/problems/3sum/,3Sum,10
+https://leetcode.com/problems/longest-common-prefix/,Longest Common Prefix,14
+https://leetcode.com/problems/roman-to-integer,Roman to Integer,13
+https://leetcode.com/problems/integer-to-roman/,Integer to Roman,3
+https://leetcode.com/problems/container-with-most-water/,Container With Most Water,5
+https://leetcode.com/problems/regular-expression-matching/,Regular Expression Matching,2
+https://leetcode.com/problems/palindrome-number/,Palindrome Number,3
+https://leetcode.com/problems/string-to-integer-atoi/,String to Integer (atoi),2
+https://leetcode.com/problems/reverse-integer/,Reverse Integer,4
+https://leetcode.com/problems/longest-palindromic-substring/,Longest Palindromic Substring,7
+https://leetcode.com/problems/median-of-two-sorted-arrays/,Median of Two Sorted Arrays,15
+https://leetcode.com/problems/longest-substring-without-repeating-characters/,Longest Substring Without Repeating Characters,16
+https://leetcode.com/problems/add-two-numbers/,Add Two Numbers,19
+https://leetcode.com/problems/two-sum/,Two Sum,40

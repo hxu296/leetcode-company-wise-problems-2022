@@ -1,0 +1,64 @@
+problem_link,problem_name,num_occur
+https://leetcode.com/problems/keep-multiplying-found-values-by-two/,Keep Multiplying Found Values by Two,1
+https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/,Remove Duplicates From an Unsorted Linked List,2
+https://leetcode.com/problems/check-if-the-sentence-is-pangram/,Check if the Sentence Is Pangram,3
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/,Find the Winner of the Circular Game,4
+https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/,Minimum Length of String After Deleting Similar Ends,Amazon
+https://leetcode.com/problems/perform-string-shifts/,Perform String Shifts,1
+https://leetcode.com/problems/count-number-of-teams/,Count Number of Teams,7
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,Remove All Adjacent Duplicates in String II,2
+https://leetcode.com/problems/high-five/,High Five,12
+https://leetcode.com/problems/greatest-common-divisor-of-strings/,Greatest Common Divisor of Strings,3
+https://leetcode.com/problems/height-checker/,Height Checker,20
+https://leetcode.com/problems/rotate-string/,Rotate String,3
+https://leetcode.com/problems/delete-and-earn/,Delete and Earn,11
+https://leetcode.com/problems/asteroid-collision/,Asteroid Collision,3
+https://leetcode.com/problems/find-pivot-index/,Find Pivot Index,9
+https://leetcode.com/problems/subarray-product-less-than-k/,Subarray Product Less Than K,2
+https://leetcode.com/problems/design-hashmap/,Design HashMap,3
+https://leetcode.com/problems/insert-into-a-binary-search-tree/,Insert into a Binary Search Tree,2
+https://leetcode.com/problems/fraction-addition-and-subtraction/,Fraction Addition and Subtraction,5
+https://leetcode.com/problems/design-in-memory-file-system/,Design In-Memory File System,2
+https://leetcode.com/problems/k-diff-pairs-in-an-array/,K-diff Pairs in an Array,2
+https://leetcode.com/problems/coin-change-2/,Coin Change 2,3
+https://leetcode.com/problems/fibonacci-number/,Fibonacci Number,3
+https://leetcode.com/problems/find-permutation/,Find Permutation,2
+https://leetcode.com/problems/circular-array-loop/,Circular Array Loop,2
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements/,Minimum Moves to Equal Array Elements,4
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Minimum Number of Arrows to Burst Balloons,2
+https://leetcode.com/problems/string-compression/,String Compression,6
+https://leetcode.com/problems/elimination-game/,Elimination Game,4
+https://leetcode.com/problems/first-unique-character-in-a-string/,First Unique Character in a String,4
+https://leetcode.com/problems/coin-change/,Coin Change,2
+https://leetcode.com/problems/h-index-ii/,H-Index II,2
+https://leetcode.com/problems/valid-anagram/,Valid Anagram,3
+https://leetcode.com/problems/implement-queue-using-stacks/,Implement Queue using Stacks,3
+https://leetcode.com/problems/kth-largest-element-in-an-array/,Kth Largest Element in an Array,2
+https://leetcode.com/problems/minimum-size-subarray-sum/,Minimum Size Subarray Sum,2
+https://leetcode.com/problems/number-of-islands/,Number of Islands,3
+https://leetcode.com/problems/largest-number/,Largest Number,2
+https://leetcode.com/problems/fraction-to-recurring-decimal/,Fraction to Recurring Decimal,3
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Find Minimum in Rotated Sorted Array,2
+https://leetcode.com/problems/lru-cache/,LRU Cache,6
+https://leetcode.com/problems/linked-list-cycle/,Linked List Cycle,2
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Best Time to Buy and Sell Stock,11
+https://leetcode.com/problems/pascals-triangle-ii/,Pascal's Triangle II,2
+https://leetcode.com/problems/pascals-triangle/,Pascal's Triangle,3
+https://leetcode.com/problems/decode-ways/,Decode Ways,3
+https://leetcode.com/problems/search-a-2d-matrix/,Search a 2D Matrix,2
+https://leetcode.com/problems/climbing-stairs/,Climbing Stairs,2
+https://leetcode.com/problems/minimum-path-sum/,Minimum Path Sum,3
+https://leetcode.com/problems/maximum-subarray/,Maximum Subarray,2
+https://leetcode.com/problems/group-anagrams/,Group Anagrams,2
+https://leetcode.com/problems/permutations/,Permutations,2
+https://leetcode.com/problems/trapping-rain-water/,Trapping Rain Water,38
+https://leetcode.com/problems/search-in-rotated-sorted-array/,Search in Rotated Sorted Array,2
+https://leetcode.com/problems/valid-parentheses/,Valid Parentheses,2
+https://leetcode.com/problems/3sum-closest/,3Sum Closest,2
+https://leetcode.com/problems/3sum/,3Sum,4
+https://leetcode.com/problems/container-with-most-water/,Container With Most Water,3
+https://leetcode.com/problems/string-to-integer-atoi/,String to Integer (atoi),3
+https://leetcode.com/problems/longest-palindromic-substring/,Longest Palindromic Substring,5
+https://leetcode.com/problems/median-of-two-sorted-arrays/,Median of Two Sorted Arrays,18
+https://leetcode.com/problems/longest-substring-without-repeating-characters/,Longest Substring Without Repeating Characters,4
+https://leetcode.com/problems/two-sum/,Two Sum,7
