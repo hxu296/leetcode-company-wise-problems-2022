@@ -3,7 +3,7 @@
 Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 
 ## Twilio
-|   Occurance | Problem                                                                                     |
+|   Occurence | Problem                                                                                     |
 |------------:|:--------------------------------------------------------------------------------------------|
 |           7 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                       |
 |           5 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                     |
@@ -13,7 +13,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |
 
 ## Karat
-|   Occurance | Problem                                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                                 |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          40 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                                                           |
 |          17 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                               |
@@ -29,7 +29,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                                             |
 
 ## Airbnb
-|   Occurance | Problem                                                                                       |
+|   Occurence | Problem                                                                                       |
 |------------:|:----------------------------------------------------------------------------------------------|
 |          14 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)                           |
 |          14 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                           |
@@ -43,7 +43,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |
 
 ## Wayfair
-|   Occurance | Problem                                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                                 |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          20 | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                                               |
 |           9 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                                                           |
@@ -54,7 +54,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                                             |
 
 ## tiktok
-|   Occurance | Problem                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                 |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------|
 |          13 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)                       |
 |          10 | [Reformat Date](https://leetcode.com/problems/reformat-date/)                                                                           |
@@ -95,7 +95,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)                                                       |
 
 ## Yandex
-|   Occurance | Problem                                                                                                                                |
+|   Occurence | Problem                                                                                                                                |
 |------------:|:---------------------------------------------------------------------------------------------------------------------------------------|
 |           8 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                              |
 |           6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                              |
@@ -113,7 +113,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)                                                        |
 
 ## Amazon
-|   Occurance | Problem                                                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                                                 |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         117 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                                                       |
 |         117 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                                                                   |
@@ -500,7 +500,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                                                                                     |
 
 ## Facebook
-|   Occurance | Problem                                                                                                                                       |
+|   Occurence | Problem                                                                                                                                       |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
 |         282 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                           |
 |         252 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                                     |
@@ -781,7 +781,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [4Sum II](https://leetcode.com/problems/4sum-ii/)                                                                                             |
 
 ## Shopee
-|   Occurance | Problem                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                 |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           5 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                     |
 |           4 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                                 |
@@ -792,7 +792,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                         |
 
 ## Google
-|   Occurance | Problem                                                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                                                 |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          75 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)                                                                                                 |
 |          73 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                                                     |
@@ -1054,7 +1054,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                                                                           |
 
 ## Oracle
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |          13 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                           |
 |          13 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                             |
@@ -1101,7 +1101,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                   |
 
 ## Capital One
-|   Occurance | Problem                                                                                           |
+|   Occurence | Problem                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------|
 |          18 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                   |
 |          14 | [Count Primes](https://leetcode.com/problems/count-primes/)                                       |
@@ -1111,7 +1111,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                               |
 
 ## Bloomberg
-|   Occurance | Problem                                                                                                                                               |
+|   Occurence | Problem                                                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          64 | [Design Underground System](https://leetcode.com/problems/design-underground-system/)                                                                 |
 |          33 | [Decode String](https://leetcode.com/problems/decode-string/)                                                                                         |
@@ -1225,7 +1225,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 
 ## Spotify
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |          16 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)                               |
 |          13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           |
@@ -1241,7 +1241,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     |
 
 ## DoorDash
-|   Occurance | Problem                                                                                                                                         |
+|   Occurence | Problem                                                                                                                                         |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|
 |          18 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                     |
 |          13 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)                                                                                   |
@@ -1263,7 +1263,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) |
 
 ## Salesforce
-|   Occurance | Problem                                                                                                                                         |
+|   Occurence | Problem                                                                                                                                         |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|
 |          19 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                               |
 |          10 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                           |
@@ -1291,7 +1291,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)                                                       |
 
 ## Apple
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |          40 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               |
 |          20 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                           |
@@ -1423,7 +1423,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                       |
 
 ## Uber
-|   Occurance | Problem                                                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                                                 |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          36 | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                                                                         |
 |          17 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                                               |
@@ -1489,7 +1489,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                                                     |
 
 ## JPMorgan
-|   Occurance | Problem                                                                                                             |
+|   Occurence | Problem                                                                                                             |
 |------------:|:--------------------------------------------------------------------------------------------------------------------|
 |          69 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) |
 |           8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                     |
@@ -1500,7 +1500,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                   |
 
 ## LinkedIn
-|   Occurance | Problem                                                                                                                                       |
+|   Occurence | Problem                                                                                                                                       |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
 |          71 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)                                                         |
 |          48 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)                                                         |
@@ -1575,7 +1575,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                       |
 
 ## Yahoo
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |           6 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               |
 |           5 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)                                                     |
@@ -1594,7 +1594,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)                                             |
 
 ## Walmart Global Tech
-|   Occurance | Problem                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                 |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           9 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) |
 |           7 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                             |
@@ -1614,7 +1614,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)                                                                                 |
 
 ## Expedia
-|   Occurance | Problem                                                                                                                             |
+|   Occurence | Problem                                                                                                                             |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------|
 |          14 | [Reformat Date](https://leetcode.com/problems/reformat-date/)                                                                       |
 |          14 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)                                                 |
@@ -1631,7 +1631,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)     |
 
 ## IBM
-|   Occurance | Problem                                                                                                           |
+|   Occurence | Problem                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------|
 |           8 | [Gas Station](https://leetcode.com/problems/gas-station/)                                                         |
 |           8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                 |
@@ -1643,7 +1643,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                 |
 
 ## Twitter
-|   Occurance | Problem                                                                                                       |
+|   Occurence | Problem                                                                                                       |
 |------------:|:--------------------------------------------------------------------------------------------------------------|
 |          23 | [Word Search](https://leetcode.com/problems/word-search/)                                                     |
 |          10 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)           |
@@ -1663,7 +1663,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/)                                               |
 
 ## Goldman Sachs
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |          38 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       |
 |          20 | [Height Checker](https://leetcode.com/problems/height-checker/)                                                                 |
@@ -1702,7 +1702,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                             |
 
 ## VMware
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |           5 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 |           5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           |
@@ -1719,7 +1719,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                       |
 
 ## Visa
-|   Occurance | Problem                                                                                                       |
+|   Occurence | Problem                                                                                                       |
 |------------:|:--------------------------------------------------------------------------------------------------------------|
 |          11 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                         |
 |           6 | [Maximal Square](https://leetcode.com/problems/maximal-square/)                                               |
@@ -1734,7 +1734,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)               |
 
 ## Nvidia
-|   Occurance | Problem                                                                                                       |
+|   Occurence | Problem                                                                                                       |
 |------------:|:--------------------------------------------------------------------------------------------------------------|
 |           8 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                         |
 |           4 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
@@ -1749,7 +1749,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/)                                               |
 
 ## Snapchat
-|   Occurance | Problem                                                                                         |
+|   Occurence | Problem                                                                                         |
 |------------:|:------------------------------------------------------------------------------------------------|
 |           7 | [Word Search](https://leetcode.com/problems/word-search/)                                       |
 |           5 | [Decode String](https://leetcode.com/problems/decode-string/)                                   |
@@ -1774,7 +1774,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                       |
 
 ## Indeed
-|   Occurance | Problem                                                                                                                                                                 |
+|   Occurence | Problem                                                                                                                                                                 |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          25 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                                                           |
 |           9 | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                               |
@@ -1785,7 +1785,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                                             |
 
 ## Lyft
-|   Occurance | Problem                                                                                                                                       |
+|   Occurence | Problem                                                                                                                                       |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
 |           9 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                           |
 |           8 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) |
@@ -1797,7 +1797,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           4 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                     |
 
 ## Microsoft
-|   Occurance | Problem                                                                                                                                               |
+|   Occurence | Problem                                                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          52 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                                 |
 |          45 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                                                     |
@@ -2033,7 +2033,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                                                                                   |
 
 ## ByteDance
-|   Occurance | Problem                                                                                                               |
+|   Occurence | Problem                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------------------------|
 |           8 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                           |
 |           6 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                 |
@@ -2058,7 +2058,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)                                     |
 
 ## Qualtrics
-|   Occurance | Problem                                                                                                 |
+|   Occurence | Problem                                                                                                 |
 |------------:|:--------------------------------------------------------------------------------------------------------|
 |           7 | [Word Break](https://leetcode.com/problems/word-break/)                                                 |
 |           6 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                               |
@@ -2071,7 +2071,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                   |
 
 ## Cisco
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |          16 | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                 |
 |          16 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     |
@@ -2089,7 +2089,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 |           3 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                               |
 
 ## Adobe
-|   Occurance | Problem                                                                                                                         |
+|   Occurence | Problem                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |          52 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               |
 |          19 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       |
