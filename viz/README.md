@@ -4,7 +4,7 @@ Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 
 Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishercoder1534/Leetcode) repo for solutions.
 
-## Index
+## Company Index
 4. [Adobe](#adobe)
 5. [Affirm](#affirm)
 6. [Airbnb](#airbnb)
