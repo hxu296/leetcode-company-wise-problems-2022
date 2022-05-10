@@ -13,6 +13,6 @@ for _, row in df.iterrows():
     parsed_list.append((name, link, ))
 
 parsed_df = pd.DataFrame(parsed_list, columns=['name', 'link'])
-parsed_df.to_csv('../data/leetcode_problems.csv')
+parsed_df.to_csv('../data/leetcode_problems.csv', index=False)
 
 
