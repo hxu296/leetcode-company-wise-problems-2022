@@ -1,5 +1,5 @@
 ![leetcode-company-wise-problems-2022](https://socialify.git.ci/hxu296/leetcode-company-wise-problems-2022/image?font=Inter&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
-## Leetcode Company-wise Problems
+## Leetcode Company-wise Problem Lists
 
 Curated lists of Leetcode questions group by companies, updated as of May, 2022.
 
@@ -193,11 +193,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 
 
 ## APT Portfolio
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1686.java) |
 
 ## Accenture
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                               | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                     | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
@@ -207,11 +211,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2099.java)                                                                                                                                                                 |
 
 ## Activision
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                             | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_712.java) |
 
 ## Adobe
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          52 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
@@ -236,6 +244,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_238.java)                                                                                                                                                              |
 
 ## Affirm
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |          10 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_380.java) |
@@ -246,6 +256,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)                                             | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_465.java) |
 
 ## Airbnb
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |          14 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)                                                       | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_336.java)  |
@@ -265,16 +277,22 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Mini Parser](https://leetcode.com/problems/mini-parser/)                                                                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_385.java)  |
 
 ## Akamai
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_961.java) |
 
 ## Akuna Capital
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                     | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           8 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1370.java) |
 
 ## Alation
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [H-Index](https://leetcode.com/problems/h-index/)                                                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_274.java) |
@@ -282,17 +300,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_49.java)  |
 
 ## Alibaba
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/)                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_666.java) |
 |           1 | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_555.java) |
 
 ## AllinCall
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1725.java) |
 
 ## Amazon
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         117 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
@@ -317,6 +341,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |          35 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_53.java)                                                                                                                                                               |
 
 ## American Express
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1466.java)                                                                                                                                                             |
@@ -326,6 +352,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_15.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_15.cpp)                                                                                   |
 
 ## Apple
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          40 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
@@ -350,6 +378,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           8 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                     | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_23.java)                                                                                                                                                               |
 
 ## Arcesium
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1567.java) |
@@ -357,6 +387,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_209.java)  |
 
 ## Arista Networks
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                   | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_20.java)  |
@@ -365,17 +397,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2182.java)    |
 
 ## Asana
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                     | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |          13 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_238.java) |
 |           5 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_973.java) |
 
 ## Athenahealth
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_697.java) |
 
 ## Atlassian
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |          18 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1366.java) |
@@ -387,6 +425,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)       | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_121.java)  |
 
 ## Baidu
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                               | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)                         | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_576.java) |
@@ -394,17 +434,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_446.java) |
 
 ## Barclays
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                               | Difficulty   | Solution                                                                                                             |
 |------------:|:----------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_20.java) |
 
 ## BlackRock
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                               | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           6 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_49.java)  |
 |           2 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_399.java) |
 
 ## Bloomberg
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          64 | [Design Underground System](https://leetcode.com/problems/design-underground-system/)                                           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1396.java)                                                                                                                                                             |
@@ -429,6 +475,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |          12 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_121.java)                                                                                                                                                              |
 
 ## Bolt
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1941.java) |
@@ -438,6 +486,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)                                                                                   | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_291.java)  |
 
 ## Booking
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1481.java) |
@@ -449,12 +499,16 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                                                                 | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2032.java)     |
 
 ## Box
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                             | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |          12 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_191.java) |
 |           4 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)     | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_126.java) |
 
 ## ByteDance
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                               | Difficulty   | Solution                                                                                                                                                                                         |
 |------------:|:----------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           8 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_23.java)                                                                             |
@@ -479,6 +533,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           3 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)                                                   | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_224.java)                                                                            |
 
 ## C3 IoT
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1010.java) |
@@ -487,11 +543,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)                                   | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1636.java) |
 
 ## Canonical
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2138.java) |
 
 ## Capital One
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |          18 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_482.java)  |
@@ -506,11 +566,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Four Divisors](https://leetcode.com/problems/four-divisors/)                                                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1390.java) |
 
 ## Cashfree
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1695.java) |
 
 ## Cisco
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                      |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------|
 |          16 | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                 | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/WordSearchII.java) |
@@ -535,6 +599,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_56.java)          |
 
 ## Citadel
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           8 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1010.java) |
@@ -545,27 +611,37 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                 | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_42.java)   |
 
 ## Citrix
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1992.java) |
 
 ## Cohesity
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_333.java) |
 
 ## Commvault
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2062.java) |
 
 ## Coursera
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1366.java) |
 |           2 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)     | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_44.java)   |
 
 ## Cruise Automation
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                       | Difficulty   | Solution                                                                                                                                                    |
 |------------:|:----------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           9 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_63.java)                                        |
@@ -579,6 +655,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_200.java)                                       |
 
 ## DE Shaw
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                     | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/)                                                                               | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_514.java)  |
@@ -586,17 +664,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1358.java) |
 
 ## DJI
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1550.java) |
 
 ## DRW
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1466.java) |
 |           1 | [Counting Elements](https://leetcode.com/problems/counting-elements/)                                                                           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1426.java) |
 
 ## Databricks
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                     | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           9 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_362.java) |
@@ -604,27 +688,37 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)             | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_41.java)  |
 
 ## Dataminr
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                               | Difficulty   | Solution                                                                                                             |
 |------------:|:----------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_20.java) |
 
 ## Dell
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                           | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
 
 ## Deutsche Bank
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)                   | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2039.java)     |
 |           1 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1827.java) |
 
 ## Directi
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1535.java) |
 
 ## Docusign
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_200.java)  |
@@ -636,6 +730,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_121.java)  |
 
 ## DoorDash
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |          18 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                     | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_124.java)  |
@@ -660,11 +756,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_560.java)  |
 
 ## Drawbridge
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_757.java) |
 
 ## Dropbox
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           6 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_609.java)  |
@@ -675,11 +775,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1845.java) |
 
 ## Druva
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1005.java) |
 
 ## Dunzo
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1561.java) |
@@ -688,11 +792,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)                         | Medium       | [Javascript](./javascript/_1664.js)                                                                                    |
 
 ## Duolingo
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                               | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1733.java) |
 
 ## Epic Systems
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_17.java)  |
@@ -700,6 +808,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                 | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_728.java) |
 
 ## Expedia
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                             | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          14 | [Reformat Date](https://leetcode.com/problems/reformat-date/)                                                                       | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1507.java)                                                                                                                                                             |
@@ -724,11 +834,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)                                       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1451.java)                                                                                                                                                             |
 
 ## FPT
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                 | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2177.java) |
 
 ## Facebook
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |         282 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1249.java) |
@@ -753,11 +867,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |          97 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_347.java)  |
 
 ## FactSet
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_221.java) |
 
 ## Flipkart
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                     | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           7 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)                             | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1700.java) |
@@ -768,17 +886,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_646.java)  |
 
 ## Gilt Groupe
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_623.java) |
 
 ## GoDaddy
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_419.java) |
 |           2 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_146.java) |
 
 ## Goldman Sachs
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          38 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_42.java)                                                                                                                                                               |
@@ -803,6 +927,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           3 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_64.java)                                                                                                                                                               |
 
 ## Google
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                             | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          75 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_366.java)                                                                                                                                                              |
@@ -827,6 +953,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |          14 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)                         | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_552.java)                                                                                                                                                              |
 
 ## Grab
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)                                                                                                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1375.java) |
@@ -838,12 +966,16 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2086.java)     |
 
 ## HBO
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_820.java) |
 |           2 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)     | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_480.java) |
 
 ## HRT
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                   | Difficulty    | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           7 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)   | Medium        | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1775.java) |
@@ -854,11 +986,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)   | Easy          | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1317.java) |
 
 ## Honeywell
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1848.java) |
 
 ## Hotstar
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_735.java) |
@@ -866,16 +1002,22 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_373.java) |
 
 ## Huawei
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                           | Difficulty   | Solution                                                                                                            |
 |------------:|:------------------------------------------------------------------|:-------------|:--------------------------------------------------------------------------------------------------------------------|
 |           2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2.java) |
 
 ## Hulu
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_440.java) |
 
 ## IBM
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                           | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           8 | [Gas Station](https://leetcode.com/problems/gas-station/)                                                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_134.java)                                                                                                                                                              |
@@ -890,22 +1032,30 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_49.java)                                                                                                                                                               |
 
 ## IIT Bombay
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_861.java) |
 
 ## IMC
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2201.java) |
 
 ## IXL
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                             | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/)                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_353.java) |
 |           1 | [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_634.java) |
 
 ## Indeed
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                 | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |          25 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                                                           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_811.java)  |
@@ -920,11 +1070,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)                                                                                                     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_563.java)  |
 
 ## Info Edge
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                     | Difficulty   | Solution                                                                                                           |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2058.java) |
 
 ## Infosys
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_152.java)                                                                            |
@@ -935,6 +1089,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [3Sum](https://leetcode.com/problems/3sum/)                                                                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_15.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_15.cpp) |
 
 ## Intel
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_20.java)                                                                                                                                                               |
@@ -944,6 +1100,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_75.java)                                                                                                                                                               |
 
 ## Intuit
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           8 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_146.java)                                                                                                                                                              |
@@ -961,6 +1119,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
 
 ## JPMorgan
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          69 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_423.java)                                                                                                                                                              |
@@ -981,16 +1141,22 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)                 | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1812.java)                                                                                                                                                             |
 
 ## Jane Street
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                         | Difficulty   | Solution                                                                                                           |
 |------------:|:----------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2085.java) |
 
 ## Jeavio
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2027.java) |
 
 ## Karat
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                 | Difficulty   | Solution                                                                                                                                                    |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          40 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                                                           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_811.java)                                       |
@@ -1008,11 +1174,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                                                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1143.java)                                      |
 
 ## Leap Motion
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                               | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_478.java) |
 
 ## LinkedIn
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |          71 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)                                           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_244.java) |
@@ -1037,6 +1207,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |          11 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)                     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_671.java) |
 
 ## LiveRamp
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Minesweeper](https://leetcode.com/problems/minesweeper/)                                       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_529.java) |
@@ -1045,6 +1217,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)                         | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_575.java) |
 
 ## Lyft
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           9 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_76.java)  |
@@ -1059,17 +1233,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)                                                 | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_157.java) |
 
 ## MAQ Software
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_467.java) |
 
 ## MakeMyTrip
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1904.java) |
 |           2 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)                                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_402.java)  |
 
 ## Mathworks
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_322.java) |
@@ -1080,6 +1260,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                   | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_500.java) |
 
 ## Mercari
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                                   | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1598.java) |
@@ -1088,6 +1270,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/)                                                                 | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1399.java) |
 
 ## Microsoft
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          52 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_146.java)                                                                                                                                                              |
@@ -1112,21 +1296,29 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |          16 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_8.java)                                                                                                                                                                |
 
 ## MindTickle
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_895.java) |
 
 ## MindTree
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2180.java) |
 
 ## Moengage
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                               | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1897.java) |
 
 ## Morgan Stanley
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           4 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_32.java)                                                                                                                                                               |
@@ -1138,11 +1330,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1626.java)                                                                                                                                                             |
 
 ## National Instruments
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                             |
 |------------:|:--------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           2 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_42.java) |
 
 ## Netflix
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/)                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1861.java) |
@@ -1152,16 +1348,22 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_20.java)   |
 
 ## Netsuite
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1491.java) |
 
 ## Nuro
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                     | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1476.java) |
 
 ## Nutanix
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                 | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)                                       | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_165.java)  |
@@ -1169,6 +1371,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1003.java) |
 
 ## Nvidia
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                 | Difficulty   | Solution                                                                                                                                                                                                   |
 |------------:|:------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           8 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                   | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1046.java)                                                                                     |
@@ -1193,22 +1397,30 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_33.java)                                                                                       |
 
 ## OT
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                           | Difficulty   | Solution                                                                          |
 |------------:|:------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------|
 |           1 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1402.cpp) |
 
 ## Opendoor
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                             | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |          10 | [Game of Life](https://leetcode.com/problems/game-of-life/)                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_289.java) |
 |           3 | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_631.java) |
 
 ## Optum
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2000.java) |
 
 ## Oracle
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          13 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_146.java)                                                                                                                                                              |
@@ -1233,12 +1445,16 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           4 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_56.java)                                                                                                                                                               |
 
 ## Palantir Technologies
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_393.java)  |
 |           1 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1232.java) |
 
 ## PayTM
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)   | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1103.java) |
@@ -1246,6 +1462,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_53.java)   |
 
 ## Paypal
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                   | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           4 | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                               | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_202.java)                                                                                                                                                              |
@@ -1261,12 +1479,16 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_3.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_3.cpp)                                                                                     |
 
 ## PhonePe
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_979.java) |
 |           1 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/)                           | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2043.java)    |
 
 ## Pinterest
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)                                                                   | Hard         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2050.java)    |
@@ -1278,23 +1500,31 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_133.java) |
 
 ## Pocket Gems
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_600.java) |
 
 ## Postmates
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1324.java) |
 |           1 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1657.java) |
 
 ## Pure Storage
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                   | Difficulty   | Solution                                                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1668.java)                                |
 |           2 | [Valid Square](https://leetcode.com/problems/valid-square/)                               | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_593.java), [Javascript](./javascript/_593.js) |
 
 ## Qualcomm
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                               | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_190.java) |
@@ -1302,6 +1532,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_287.java) |
 
 ## Qualtrics
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           7 | [Word Break](https://leetcode.com/problems/word-break/)                                                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_139.java)                                                                            |
@@ -1321,6 +1553,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Jump Game](https://leetcode.com/problems/jump-game/)                                                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_55.java)                                                                             |
 
 ## Quora
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                               | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)                 | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1354.java) |
@@ -1332,11 +1566,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1876.java) |
 
 ## Rakuten
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                     | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1862.java) |
 
 ## Reddit
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                 | Difficulty   | Solution                                                                                                             |
 |------------:|:------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           3 | [Subsets](https://leetcode.com/problems/subsets/)                       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_78.java) |
@@ -1344,17 +1582,23 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           3 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_40.java) |
 
 ## Redfin
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           3 | [String Compression](https://leetcode.com/problems/string-compression/)           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_443.java) |
 |           3 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_8.java)   |
 
 ## Riot Games
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_495.java) |
 
 ## Robinhood
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                 | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           8 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1604.java) |
@@ -1363,6 +1607,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/)                                                                                                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1711.java) |
 
 ## Roblox
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty    | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Design Browser History](https://leetcode.com/problems/design-browser-history/)                   | Medium        | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1472.java) |
@@ -1372,6 +1618,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                             | Binary Search | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_162.java)  |
 
 ## Rubrik
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/)                                                           | Easy         | [Javascript](./javascript/_1146.js)                                                                                   |
@@ -1384,11 +1632,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_48.java)  |
 
 ## Rupeek
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                               | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1545.java) |
 
 ## SAP
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                     | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           9 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_738.java)  |
@@ -1400,6 +1652,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1349.java) |
 
 ## Salesforce
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          19 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_56.java)                                                                                                                                                               |
@@ -1424,6 +1678,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           3 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                                       | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1200.java)                                                                                                                                                             |
 
 ## Samsung
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_53.java)                                                                                                                                                               |
@@ -1435,11 +1691,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)       | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1464.java)                                                                                                                                                             |
 
 ## Sapient
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                             |
 |------------:|:--------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           2 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_42.java) |
 
 ## ServiceNow
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                   | Difficulty   | Solution                                                                                                                                                                                       |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                 | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_4.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_4.cpp) |
@@ -1457,6 +1717,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_20.java)                                                                           |
 
 ## Shopee
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_53.java)  |
@@ -1470,6 +1732,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                             | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_23.java)  |
 
 ## Snapchat
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                         | Difficulty    | Solution                                                                                                                      |
 |------------:|:------------------------------------------------------------------------------------------------|:--------------|:------------------------------------------------------------------------------------------------------------------------------|
 |           7 | [Word Search](https://leetcode.com/problems/word-search/)                                       | Medium        | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_79.java)          |
@@ -1494,21 +1758,29 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           3 | [The Maze](https://leetcode.com/problems/the-maze/)                                             | Medium        | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_490.java)         |
 
 ## Softwire
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1796.java) |
 
 ## Sony
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                           | Difficulty   | Solution                                                                          |
 |------------:|:------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------|
 |           2 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1402.cpp) |
 
 ## Splunk
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                         | Difficulty   | Solution                                                                                                             |
 |------------:|:------------------------------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           2 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_33.java) |
 
 ## Spotify
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          16 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)                               | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_346.java)                                                                                                                                                              |
@@ -1527,6 +1799,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1207.java)                                                                                                                                                             |
 
 ## Sprinklr
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)                                         | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_149.java)  |
@@ -1536,6 +1810,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1746.java) |
 
 ## Square
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/)                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_353.java)  |
@@ -1549,6 +1825,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/)                 | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_573.java)  |
 
 ## Sumologic
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                   | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_236.java)  |
@@ -1557,6 +1835,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Decode String](https://leetcode.com/problems/decode-string/)                                                             | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_394.java)  |
 
 ## Swiggy
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_11.java)  |
@@ -1564,21 +1844,29 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)                                         | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_781.java) |
 
 ## T System
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                               | Difficulty   | Solution                                                                                                           |
 |------------:|:------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Grid Game](https://leetcode.com/problems/grid-game/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2017.java) |
 
 ## TIAA
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1979.java) |
 
 ## Tencent
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_625.java) |
 
 ## Tesla
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                               | Difficulty   | Solution                                                                                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           3 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)                                               | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_976.java)                                                                            |
@@ -1592,26 +1880,36 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_15.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_15.cpp) |
 
 ## Thumbtack
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_966.java) |
 
 ## Tiger Analytics
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                   | Difficulty   | Solution                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2239.java) |
 
 ## Toptal
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                       | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           3 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1694.java) |
 
 ## TripleByte
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                             | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_712.java) |
 
 ## TuSimple
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_145.java) |
@@ -1619,6 +1917,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                       | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_23.java)  |
 
 ## Twilio
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                 | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           7 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                   | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_146.java)  |
@@ -1632,12 +1932,16 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)             | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_124.java)  |
 
 ## Twitch
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           7 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_419.java) |
 |           2 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)           | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_200.java) |
 
 ## Twitter
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                       | Difficulty   | Solution                                                                                                                      |
 |------------:|:--------------------------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------|
 |          23 | [Word Search](https://leetcode.com/problems/word-search/)                                                     | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_79.java)          |
@@ -1662,6 +1966,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)                             | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_895.java)         |
 
 ## Two Sigma
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1339.java) |
@@ -1669,6 +1975,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)                                       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_692.java)  |
 
 ## Uber
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                                 | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          36 | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                                                                         | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/WordSearchII.java)                                                                                                                                                      |
@@ -1693,12 +2001,16 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           7 | [Minesweeper](https://leetcode.com/problems/minesweeper/)                                                                                                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_529.java)                                                                                                                                                              |
 
 ## United Health Group
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                | Difficulty   | Solution                                                                                                               |
 |------------:|:---------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1437.java) |
 |           1 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                      | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1185.java) |
 
 ## VMware
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                         |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           5 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_3.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_3.cpp)   |
@@ -1723,11 +2035,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_98.java)                                                                             |
 
 ## Valve
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                     | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_649.java) |
 
 ## Virtu Financial
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Hexspeak](https://leetcode.com/problems/hexspeak/)                                                                             | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1271.java) |
@@ -1737,6 +2053,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1758.java) |
 
 ## Visa
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                   | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          11 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1046.java)                                                                                                                                                             |
@@ -1761,6 +2079,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)           | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1389.java)                                                                                                                                                             |
 
 ## Walmart Global Tech
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                 | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           9 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2038.java)                                                                                                                                                                 |
@@ -1785,6 +2105,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                             | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_23.java)                                                                                                                                                               |
 
 ## Wayfair
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                                                 | Difficulty   | Solution                                                                                                                                                    |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          20 | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                                                               | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_415.java)                                       |
@@ -1800,21 +2122,29 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)                                                         | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1957.java)                                      |
 
 ## Wealthfront
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                         | Difficulty   | Solution                                                                                                           |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2186.java) |
 
 ## Wish
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           2 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_436.java) |
 
 ## Works Applications
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                       | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_629.java) |
 
 ## Yahoo
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           6 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2.java)                                                                                                                                                                |
@@ -1839,6 +2169,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_9.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_9.cpp)                                                                                         |
 
 ## Yandex
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                | Difficulty   | Solution                                                                                                                                                                                       |
 |------------:|:---------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           8 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                              | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_849.java)                                                                          |
@@ -1863,6 +2195,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                              | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_4.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_4.cpp) |
 
 ## Yelp
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                            | Difficulty   | Solution                                                                                                               |
 |------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           5 | [Destination City](https://leetcode.com/problems/destination-city/)                                                                                | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1436.java) |
@@ -1870,23 +2204,31 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                                    | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_599.java)  |
 
 ## ZScaler
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1154.java) |
 
 ## Zenefits
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_255.java) |
 |           1 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                                       | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_52.java)  |
 
 ## Zillow
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                       | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           2 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_54.java)                                                                                                                                                               |
 |           2 | [Two Sum](https://leetcode.com/problems/two-sum/)             | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
 
 ## Zoho
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                         | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           4 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
@@ -1896,11 +2238,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)               | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2164.java)                                                                                                                                                                 |
 
 ## Zomato
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                           | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           2 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
 
 ## Zoom
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                                                                                                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           4 | [Rotate String](https://leetcode.com/problems/rotate-string/)                                     | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_796.java)                                                                                                                                                              |
@@ -1910,11 +2256,15 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_1.cpp), [Javascript](https://github.com/fishercoder1534/Leetcode/blob/master/javascript/_1.js) |
 
 ## Zopsmart
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                   | Difficulty   | Solution                                                                                                           |
 |------------:|:----------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2074.java) |
 
 ## eBay
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                   | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_49.java)   |
@@ -1928,37 +2278,51 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_121.java)  |
 
 ## edabit
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                             | Difficulty   | Solution                                                                                                               |
 |------------:|:----------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1716.java) |
 
 ## instacart
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                                 | Difficulty   | Solution                                                                                                           |
 |------------:|:----------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           2 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2133.java) |
 
 ## payu
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                             |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:---------------------------------------------------------------------------------------------------------------------|
 |           2 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                       | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_45.java) |
 |           1 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2169.java)   |
 
 ## peak6
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:------------------------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           1 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1620.java) |
 
 ## persistent systems
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                   | Difficulty   | Solution                                                                                                           |
 |------------:|:----------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2220.java) |
 
 ## razorpay
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium       | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2054.java) |
 
 ## tcs
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                           | Difficulty   | Solution                                                                                                               |
 |------------:|:--------------------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------|
 |           4 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                         | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_283.java)  |
@@ -1971,6 +2335,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           1 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/)           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1745.java) |
 
 ## tiktok
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                           | Difficulty   | Solution                                                                                                                                                                                         |
 |------------:|:------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          13 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_1381.java)                                                                           |
@@ -1995,6 +2361,8 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 |           4 | [3Sum](https://leetcode.com/problems/3sum/)                                                                       | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_15.java), [C++](https://github.com/fishercoder1534/Leetcode/blob/master/cpp/_15.cpp) |
 
 ## zeta suite
+
+[[back to top]](#company-index)
 |   Occurence | Problem                                                                                                                   | Difficulty   | Solution                                                                                                           |
 |------------:|:--------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------------------|
 |           1 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | Easy         | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_2176.java) |
